@@ -1,6 +1,6 @@
 # bookstore
 
-Developed using HTML, CSS, JavaScript, and PHP technologies</br>
+Developed using HTML, CSS, JavaScript, and PHP technologies
 Features : 
 <ul>
   <li>Admin and user login functionality</li>
